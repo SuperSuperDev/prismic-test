@@ -1,0 +1,36 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.svg {
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+  color: var(--token-ZrOA7t2mQpZLV);
+  flex-shrink: 0;
+}
+.cart:global(.__wab_instance) {
+  max-width: 100%;
+  position: absolute;
+  background: var(--token-bLoYqUH94gMsy);
+  display: flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  left: auto;
+  top: -15px;
+  bottom: auto;
+  right: -10px;
+  flex-shrink: 0;
+  border-radius: 50%;
+}

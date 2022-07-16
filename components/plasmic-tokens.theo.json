@@ -1,0 +1,99 @@
+{
+  "props": [
+    {
+      "name": "UnnamedStyleToken",
+      "type": "color",
+      "value": "#898484",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "eNih_5QbjRulm"
+      }
+    },
+    {
+      "name": "bg",
+      "type": "color",
+      "value": "#F2EFEB",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "R-fTGrzYCvwGw"
+      }
+    },
+    {
+      "name": "bg 2",
+      "type": "color",
+      "value": "#FAF8F5",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "sMQXOv0kScZ_7"
+      }
+    },
+    {
+      "name": "black",
+      "type": "color",
+      "value": "#1C1A17",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "ZrOA7t2mQpZLV"
+      }
+    },
+    {
+      "name": "box",
+      "type": "spacing",
+      "value": "146px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "UTLCGRii4Q6lH"
+      }
+    },
+    {
+      "name": "brown",
+      "type": "color",
+      "value": "#A36005",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "xGhSISxTUcIQI"
+      }
+    },
+    {
+      "name": "star",
+      "type": "color",
+      "value": "#E63360",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "bLoYqUH94gMsy"
+      }
+    },
+    {
+      "name": "test color",
+      "type": "color",
+      "value": "#898484",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "Y0cpcMdrQYe-d"
+      }
+    },
+    {
+      "name": "white",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "pSGwZDAYME5TdPFpDRZPiX",
+        "id": "M0Vg_cQNhjIE0"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
